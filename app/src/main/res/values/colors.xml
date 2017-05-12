@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#49afcd</color>
+    <color name="colorPrimaryDark">#50a2aa</color>
+    <color name="colorAccent">#FF60af</color>
+
+
+    <color name="theme_color">#2BB1E9</color>
+
+    <color name="primary_background_color">#F0F0F0</color>
+
+    <color name="list_divider">#1f000000</color>
+    <color name="tab_light_color">#2BB1E9</color>
+
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+
+</resources>

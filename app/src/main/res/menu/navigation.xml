@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/ic_xinwen"
+        android:title="@string/news" />
+
+    <item
+        android:id="@+id/navigation_joke"
+        android:icon="@drawable/ic_xiaolian"
+        android:title="@string/joke" />
+
+    <item
+        android:id="@+id/navigation_picture"
+        android:icon="@drawable/ic_tupian"
+        android:title="@string/picture" />
+    <item
+        android:id="@+id/navigation_me"
+        android:icon="@drawable/ic_wo"
+        android:title="@string/me" />
+
+</menu>
